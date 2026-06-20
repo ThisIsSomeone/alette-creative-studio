@@ -1,0 +1,15 @@
+---
+import { getCollection } from "astro:content";
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import SectionPage from "../components/SectionPage.astro";
+
+const sections = await getCollection("sections", ({ id }) =>
+    id.startsWith("home/")
+);
+
+sections.sort((a, b) => a.data.order - b.data.order);
+---
+
+<MainGridLayout>
+    <SectionPage sections={sections} />
+</MainGridLayout>

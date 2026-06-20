@@ -57,6 +57,7 @@ export const navBarConfig: NavBarConfig = {
         {
             name: "Newsletter",
             url: "https://buttondown.com/alette",
+            external: true,
         }
 	],
 };
