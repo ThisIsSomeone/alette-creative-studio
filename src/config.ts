@@ -8,11 +8,11 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Fuwari",
-	subtitle: "Demo Site",
+	title: "Alette Creative Studio",
+	subtitle: "An indie creative corner",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
-		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		hue: 305, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
@@ -42,38 +42,50 @@ export const siteConfig: SiteConfig = {
 export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
-		LinkPreset.Archive,
 		LinkPreset.About,
-		{
-			name: "GitHub",
-			url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
+        LinkPreset.Archive,
 	],
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	avatar: "assets/images/avatar.png",
+	name: "Alette Farzad",
+	bio: "Games, programming, writing and the occasional sword.",
 	links: [
-		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
-		},
-		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
-		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
-		},
+		// TODO: Link personal profiles ASAP like linkedin and your bluesky?
+	],
+};
+
+export const studioProfileConfig: ProfileConfig = {
+	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/' //TODO: Change to studio logo
+	name: "Alette Creative Studio",
+	bio: "A cozy indie creative corner.",
+	links: [
+        {
+            name: "itch.io",
+            icon: "fa6-brands:itch-io",
+            url: "https://alette-creative-studio.itch.io/",
+        },
+        {
+            name: "Youtube",
+            icon: "fa6-brands:youtube",
+            url: "https://www.youtube.com/channel/UCGk-vIG5qMXbShG0aHqDshQ",
+        },
+        {
+            name: "Bluesky",
+            icon: "fa6-brands:bluesky",
+            url: "https://bsky.app/profile/alettestudio.bsky.social",
+        },
+        {
+            name: "Instagram",
+            icon: "fa6-brands:instagram",
+            url: "https://www.instagram.com/alettecreativestudio/",
+        },
+        {
+            name: "Newsletter",
+            icon: "fa6-solid:envelope",
+            url: "https://buttondown.com/alette",
+        }
 	],
 };
 
