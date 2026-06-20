@@ -41,9 +41,23 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
 	links: [
-		LinkPreset.Home,
-		LinkPreset.About,
-        LinkPreset.Archive,
+        LinkPreset.Home,
+        {
+            name: "Studio",
+            url: "/studio/",
+        },
+        {
+            name: "About Me",
+            url: "/about-me/",
+        },
+        {
+            name: "Socials",
+            url: "/socials/",
+        },
+        {
+            name: "Newsletter",
+            url: "https://buttondown.com/alette",
+        }
 	],
 };
 
@@ -100,3 +114,4 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// Please select a dark theme, as this blog theme currently only supports dark background color
 	theme: "github-dark",
 };
+

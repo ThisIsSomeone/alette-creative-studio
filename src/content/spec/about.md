@@ -11,3 +11,34 @@ My work spans games, comics, fiction, community building, and the occasional swo
 This website is a home for the things I make: games, writing, comics, development logs, and the occasional update from the studio.
 
 If you'd like to follow along, you can find my projects, newsletter, and social links throughout the site.
+
+## Creator
+
+Alette Farzad
+
+Short creator bio goes here.
+
+Links:
+- Bluesky
+- Newsletter
+- Github
+
+---
+
+## Studio
+
+Alette Creative Studio
+
+Short studio bio goes here.
+
+Links:
+- Itch.io
+- Youtube
+- Instagram
+
+## What You'll Find On this website
+
+- Games
+- Writing
+- Development logs
+- Studio updates

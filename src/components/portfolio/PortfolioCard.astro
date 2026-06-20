@@ -1,0 +1,26 @@
+---
+import Markdown from "../misc/Markdown.astro";
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<div class="card-base p-6">
+    <div class="flex items-center gap-3 mb-4">
+        <span class="text-3xl">{entry.data.icon}</span>
+
+        <div>
+            <h2 class="text-2xl font-bold">
+                {entry.data.title}
+            </h2>
+
+            <p class="text-neutral-500 dark:text-neutral-400">
+                {entry.data.description}
+            </p>
+        </div>
+    </div>
+
+    <Markdown class="">
+        <Content />
+    </Markdown>
+</div>
