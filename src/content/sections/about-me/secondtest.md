@@ -1,7 +1,7 @@
 ---
 title: "Writing"
 icon: "🎮"
-order: 1
+order: 2
 ---
 
 Narrative design, writing, development and production work.
