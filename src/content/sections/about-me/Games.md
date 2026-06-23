@@ -23,6 +23,7 @@ Here are some of the games I have contributed to in the past years!
 
 ## Market Meltdown - 2022
 <img src="images/XYih7z.png" alt="Market Meltdown snippet" style="float: right; margin-left: 15px;">
+
 [Market Meltdown](https://divergency.itch.io/market-meltdown) is a visual novel made as part of Autistic Creative Festival GameJam organised in 2022, and was coded by me! It showcases the concept of 'Sensory Overload'.
 
 <div style="clear: both;"></div>
