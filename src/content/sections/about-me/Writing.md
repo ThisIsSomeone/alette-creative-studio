@@ -49,19 +49,14 @@ PS: You can check out some of my other comic-related works out on this secret pa
 
 ## Other Writing
 
-My current writing project is <b>Wake of Echo</b>,  a superhero story set in a 2016 era world where a government assassin and an escaped experimental weapon team up and discover truths that lay hidden in their city. You can read a rough draft here: TODO
-
-<p style="text-align:center;">
+<p style="text-align:center; margin: 1rem 0 1.5rem 0;">
   <img
     src="/alette-creative-studio/images/WoEBanner.png"
     alt="Wake of Echo"
-    style="
-      max-width: 500px;
-      width: 100%;
-      height: auto;
-      display: inline-block;
-    "
+    style="max-width:500px; width:90%; height:auto;"
   >
 </p>
+
+My current writing project is <b>Wake of Echo</b>, a superhero story set in a 2016 era world where a government assassin and an escaped experimental weapon team up and discover truths that lay hidden in their city. You can read a rough draft here: TODO
 
 Additionally, if you want to read something a little more polished (still rough, but better), you can check out this cool snippet from an untitled project: TODO
