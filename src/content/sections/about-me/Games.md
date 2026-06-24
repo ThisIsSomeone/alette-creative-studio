@@ -1,3 +1,11 @@
+---
+title: "Games"
+icon: ""
+order: 2
+---
+
+Here are some of the games I have contributed to in the past years!
+
 ## Doolhof - 2025
 
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
