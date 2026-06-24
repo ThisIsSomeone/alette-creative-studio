@@ -1,12 +1,6 @@
 ---
-title: "Writing"
+title: "The Studio"
 order: 1
 ---
 
-Narrative design, writing, development and production work.
-
-## Projects
-
-- Eden's Garden
-- Game Jam Projects
-- Future Visual Novel
+<b>Alette Creative Studio</b> is a banner under which I release media with fellow creators. It started a few years ago as a small enclosed chat server which expanded to a public-facing banner once we decided to start making things together. Currently, we're working on our first project we plan to release under this banner, which you can check out below!
