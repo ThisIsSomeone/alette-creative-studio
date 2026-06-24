@@ -3,10 +3,6 @@ title: "Writing"
 order: 1
 ---
 
-Narrative design, writing, development and production work.
+Hi!
 
-## Projects
-
-- Eden's Garden
-- Game Jam Projects
-- Future Visual Novel
+ff

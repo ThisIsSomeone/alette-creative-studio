@@ -3,4 +3,6 @@ title: "My Socials"
 order: 1
 ---
 
-babababababbbabababababbab
+E-Mail
+Ko-Fi
+Itch.io
