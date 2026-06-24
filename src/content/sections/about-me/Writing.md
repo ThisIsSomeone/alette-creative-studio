@@ -47,6 +47,8 @@ PS: You can check out some of my other comic-related works out on this secret pa
 
 <div style="clear: both;"></div>
 
+## Other Writing
+
 My current writing project is <b>Wake of Echo</b>,  a superhero story set in a 2016 era world where a government assassin and an escaped experimental weapon team up and discover truths that lay hidden in their city. You can read a rough draft here: TODO
 
 Additionally, if you want to read something a little more polished (still rough, but better), you can check out this cool snippet from an untitled project: TODO
