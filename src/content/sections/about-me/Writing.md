@@ -50,11 +50,9 @@ PS: You can check out some of my other comic-related works out on this secret pa
 ## Other Writing
 
 <p style="text-align:center; margin: 1rem 0 1.5rem 0;">
-  <img
-    src="/alette-creative-studio/images/WoEBanner.png"
-    alt="Wake of Echo"
-    style="max-width:500px; width:90%; height:auto;"
-  >
+    <a href="TODO">
+    <img src="/alette-creative-studio/images/WoEBanner.png" alt="Wake of Echo">
+    </a>
 </p>
 
 My current writing project is <b>Wake of Echo</b>, a superhero story set in a 2016 era world where a government assassin and an escaped experimental weapon team up and discover truths that lay hidden in their city. You can read a rough draft here: TODO

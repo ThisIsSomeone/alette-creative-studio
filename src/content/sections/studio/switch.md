@@ -3,9 +3,9 @@ title: "Switch"
 order: 2
 ---
 
-<a href="/alette-creative-studio/images/Basesprite.png" target="_blank">
+<a href="/alette-creative-studio/images/BaseSprite.png" target="_blank">
   <img
-    src="/alette-creative-studio/images/Basesprite.png"
+    src="/alette-creative-studio/images/BaseSprite.png"
     alt="Bridges"
     style="
       width:220px;
@@ -16,9 +16,9 @@ order: 2
     "
   >
 </a>
-<a href="/alette-creative-studio/images/placeholder kitty.png" target="_blank">
+<a href="/alette-creative-studio/images/placeholder%20kitty.png" target="_blank">
   <img
-    src="/alette-creative-studio/images/placeholder kitty.png.png"
+    src="/alette-creative-studio/images/placeholder%20kitty.png"
     alt="Sensory Page"
     style="
       width:220px;
