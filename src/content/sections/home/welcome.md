@@ -1,9 +1,9 @@
 ---
-title: "Writing"
+title: "Hi!"
 order: 1
 ---
 
-Hi! Welcome to [Alette's Creative Corner](https://thisissomeone.github.io/alette-creative-studio/). This cozy little corner of the internet serves as the home for my personal projects as well as [Alette Creative Studio](https://thisissomeone.github.io/alette-creative-studio/studio/), where I make fun things with others!
+Welcome to [Alette's Creative Corner](https://thisissomeone.github.io/alette-creative-studio/). This cozy little corner of the internet serves as the home for my personal projects as well as [Alette Creative Studio](https://thisissomeone.github.io/alette-creative-studio/studio/), where I make fun things with others!
 
 On this site you can find dev updates for games, writing projects, comics, and the occasional odd experiment that does not fit anywhere else. No matter how you found this site, I'm sure there's something fun for you here to discover.
 

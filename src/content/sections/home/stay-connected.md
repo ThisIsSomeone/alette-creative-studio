@@ -1,6 +1,6 @@
 ---
 title: "Writing"
-order: 1
+order: 5
 ---
 
 Narrative design, writing, development and production work.
