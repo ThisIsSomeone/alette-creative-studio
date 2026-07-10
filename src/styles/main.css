@@ -152,10 +152,17 @@
 }
 
 .wip-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    z-index: 9999;
+
     background: #870791;
-    color: #ffffff;
+    color: white;
+
     text-align: center;
-    padding: 0.8rem 1rem;
+    padding: .8rem 1rem;
     font-weight: 600;
-    border-bottom: 1px solid rgba(0,0,0,.15);
 }
