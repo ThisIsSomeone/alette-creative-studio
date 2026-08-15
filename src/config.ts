@@ -41,24 +41,24 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
 	links: [
-        LinkPreset.Home,
-        {
-            name: "Studio",
-            url: "/studio/",
-        },
-        {
-            name: "About Me",
-            url: "/about-me/",
-        },
-        {
-            name: "Socials",
-            url: "/socials/",
-        },
-        {
-            name: "Newsletter",
-            url: "https://buttondown.com/alette",
-            external: true,
-        }
+		LinkPreset.Home,
+		{
+			name: "Studio",
+			url: "/studio/",
+		},
+		{
+			name: "About Me",
+			url: "/about-me/",
+		},
+		{
+			name: "Socials",
+			url: "/socials/",
+		},
+		{
+			name: "Newsletter",
+			url: "https://buttondown.com/alette",
+			external: true,
+		},
 	],
 };
 
@@ -67,21 +67,21 @@ export const profileConfig: ProfileConfig = {
 	name: "Alette Farzad",
 	bio: "Games, programming and writing and sometimes swords.",
 	links: [
-        {
-            name: "itch.io",
-            icon: "fa6-brands:itch-io",
-            url: "https://csomeoneh.itch.io/",
-        },
-        {
-            name: "GitHub",
-            icon: "fa6-brands:github",
-            url: "https://github.com/ThisIsSomeone"
-        },
-        {
-            name: "Email",
-            icon: "fa6-solid:envelope",
-            url: "mailto:alettecreativestudio@gmail.com"
-        }
+		{
+			name: "itch.io",
+			icon: "fa6-brands:itch-io",
+			url: "https://csomeoneh.itch.io/",
+		},
+		{
+			name: "GitHub",
+			icon: "fa6-brands:github",
+			url: "https://github.com/ThisIsSomeone",
+		},
+		{
+			name: "Email",
+			icon: "fa6-solid:envelope",
+			url: "mailto:alettecreativestudio@gmail.com",
+		},
 	],
 };
 
@@ -90,31 +90,31 @@ export const studioProfileConfig: ProfileConfig = {
 	name: "Alette Creative Studio",
 	bio: "My small cozy creative corner~",
 	links: [
-        {
-            name: "itch.io",
-            icon: "fa6-brands:itch-io",
-            url: "https://alette-creative-studio.itch.io/",
-        },
-        {
-            name: "Youtube",
-            icon: "fa6-brands:youtube",
-            url: "https://www.youtube.com/channel/UCGk-vIG5qMXbShG0aHqDshQ",
-        },
-        {
-            name: "Bluesky",
-            icon: "fa6-brands:bluesky",
-            url: "https://bsky.app/profile/alettestudio.bsky.social",
-        },
-        {
-            name: "Instagram",
-            icon: "fa6-brands:instagram",
-            url: "https://www.instagram.com/alettecreativestudio/",
-        },
-        {
-            name: "Newsletter",
-            icon: "fa6-solid:envelope",
-            url: "https://buttondown.com/alette",
-        }
+		{
+			name: "itch.io",
+			icon: "fa6-brands:itch-io",
+			url: "https://alette-creative-studio.itch.io/",
+		},
+		{
+			name: "Youtube",
+			icon: "fa6-brands:youtube",
+			url: "https://www.youtube.com/channel/UCGk-vIG5qMXbShG0aHqDshQ",
+		},
+		{
+			name: "Bluesky",
+			icon: "fa6-brands:bluesky",
+			url: "https://bsky.app/profile/alettestudio.bsky.social",
+		},
+		{
+			name: "Instagram",
+			icon: "fa6-brands:instagram",
+			url: "https://www.instagram.com/alettecreativestudio/",
+		},
+		{
+			name: "Newsletter",
+			icon: "fa6-solid:envelope",
+			url: "https://buttondown.com/alette",
+		},
 	],
 };
 
@@ -129,4 +129,3 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// Please select a dark theme, as this blog theme currently only supports dark background color
 	theme: "github-dark",
 };
-

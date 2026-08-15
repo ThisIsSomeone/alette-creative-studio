@@ -1,10 +1,10 @@
 ---
 import { getCollection } from "astro:content";
-import MainGridLayout from "../layouts/MainGridLayout.astro";
 import SectionPage from "../components/SectionPage.astro";
+import MainGridLayout from "../layouts/MainGridLayout.astro";
 
 const sections = await getCollection("sections", ({ id }) =>
-    id.startsWith("home/")
+	id.startsWith("home/"),
 );
 
 sections.sort((a, b) => a.data.order - b.data.order);
