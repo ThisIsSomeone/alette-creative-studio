@@ -4,7 +4,7 @@ order: 2
 ---
 
 
-<p style="text-align:center; margin:-5px 0 0;">
+<p style="text-align:center; margin:-15px 0 -5px;">
   <a href="/alette-creative-studio/images/thedetective.png" target="_blank">
     <img
       src="/alette-creative-studio/images/thedetective.png"
