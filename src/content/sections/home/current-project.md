@@ -12,7 +12,7 @@ order: 2
       width:100%;
       height:auto;
       object-fit:cover;
-      border-radius:8px;
+      border-radius:0px;
       cursor:pointer;
     "
   >
