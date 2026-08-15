@@ -8,9 +8,9 @@ Writing has always been one of my oldest and most beloved hobbies. In recent yea
 
 ## Comics
 
-Over the past year, I've dipped my toes into making comics. These were always collaborations, as while I love to write and design comics, I cannot actually draw them myself. So please go check out the artists I mention here! 
+Over the past years, I've dipped my toes into making comics. Some of these even got featured in a cool [anthology](https://schnumn.com/sensory)! These were always collaborations, as while I love to write and design comics, I cannot actually draw them myself. So please go check out the artists I mention below! 
 
-PS: You can check out some of my other comic-related works out on this secret page
+PS: I plan to add a secret page soon with some more of my comic works documented / full comics. Keep an eye out for that!
 
 <div style="display:flex; gap:15px; margin:20px 0; justify-content:center;">
 
