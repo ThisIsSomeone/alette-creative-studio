@@ -33,15 +33,19 @@ export async function getSortedPosts() {
 }
 export type PostForList = {
 	slug: string;
-	data: CollectionEntry<"posts">["data"];
+	data: Omit<CollectionEntry<"posts">["data"], "category"> & {
+		category?: string;
+	};
 };
 export async function getSortedPostsList(): Promise<PostForList[]> {
 	const sortedFullPosts = await getRawSortedPosts();
 
-	// delete post.body
 	const sortedPostsList = sortedFullPosts.map((post) => ({
 		slug: post.slug,
-		data: post.data,
+		data: {
+			...post.data,
+			category: post.data.category ?? undefined,
+		},
 	}));
 
 	return sortedPostsList;
