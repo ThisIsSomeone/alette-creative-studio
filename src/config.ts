@@ -65,7 +65,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png",
 	name: "Alette Farzad",
-	bio: "Games, programming, writing and the occasional sword.",
+	bio: "Games, programming and writing. On occasion, also swords.",
 	links: [
         {
             name: "itch.io",
