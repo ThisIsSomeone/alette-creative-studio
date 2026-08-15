@@ -1,7 +1,9 @@
 ---
 import SectionCard from "./SectionCard.astro";
 
-const { sections } = Astro.props;
+const { sections } = Astro.props as {
+	sections: any[];
+};
 ---
 
 <div class="flex flex-col gap-6">
