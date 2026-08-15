@@ -18,7 +18,7 @@ Here are some of the games I have contributed to in the past years!
 
 ![Eden's Garden](/alette-creative-studio/images/mJdjf5.png)
 
-[Eden's Garden](https://projectedens-garden.fandom.com/wiki/Project_Eden%27s_Garden) is a murder mystery game following the style of danganronpa. I joined the team as translation engineer, to try and enable fan translations of the game.
+[Eden's Garden](https://projectedens-garden.fandom.com/wiki/Project_Eden%27s_Garden) is a murder mystery game following the style of danganronpa. I joined the team as translation engineer, to try and enable fan translations of the game. Unfortunately as of 2026, due to unfortunate circumstances, the development of the game has been permanently cancelled.
 
 ---
 
