@@ -88,7 +88,7 @@ export const profileConfig: ProfileConfig = {
 export const studioProfileConfig: ProfileConfig = {
 	avatar: "assets/images/ACSLogo.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Alette Creative Studio",
-	bio: "My small creative corner",
+	bio: "My small cozy creative corner~",
 	links: [
         {
             name: "itch.io",
