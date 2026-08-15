@@ -67,12 +67,26 @@ export const profileConfig: ProfileConfig = {
 	name: "Alette Farzad",
 	bio: "Games, programming, writing and the occasional sword.",
 	links: [
-		// TODO: Link personal profiles ASAP like linkedin and your bluesky?
+        {
+            name: "itch.io",
+            icon: "fa6-brands:itch-io",
+            url: "https://csomeoneh.itch.io/",
+        },
+        {
+            name: "GitHub",
+            icon: "fa6-brands:github",
+            url: "https://github.com/ThisIsSomeone"
+        },
+        {
+            name: "Email",
+            icon: "fa6-solid:envelope",
+            url: "mailto:alettecreativestudio@gmail.com"
+        }
 	],
 };
 
 export const studioProfileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/' //TODO: Change to studio logo
+	avatar: "assets/images/ACSLogo.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Alette Creative Studio",
 	bio: "A cozy indie creative corner.",
 	links: [
